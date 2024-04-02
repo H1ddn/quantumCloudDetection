@@ -1,4 +1,4 @@
-# Quantum Machine Learning for Cloud Detection
+# Quantum Machine Learning Application for Cloud Classification
 
 ## Folder Names
 
